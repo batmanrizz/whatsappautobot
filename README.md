@@ -131,5 +131,5 @@ MIT License
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="32"/>
   <img src="https://img.icons8.com/color/48/000000/python--v2.png" width="32"/>
-  <img src="https://img.icons8.com/color/48/000000/openai.png" width="32"/>
+  <img src="https://gimgs2.nohat.cc/thumb/f/640/open-ai-logo-png-transparent-background-chatgpt--68fadfca37.jpg" width="32"/>
 </p>
