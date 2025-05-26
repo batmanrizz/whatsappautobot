@@ -3,7 +3,7 @@ import time
 import pyperclip
 
 # Step 0: Click WhatsApp icon to open it (double click to ensure it opens)
-pyautogui.moveTo(1268, 912)
+pyautogui.moveTo(1268, 912)   # Replace your position of whatsapp, run position_finder to find it.
 pyautogui.click()
 time.sleep(0.2)
 pyautogui.click()
