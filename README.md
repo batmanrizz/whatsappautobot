@@ -96,7 +96,7 @@ You can use Python's `schedule` or `time` modules to send messages at specific t
 
 ## 🧠 OpenAI Integration (Coming Soon)
 
-<img src="https://img.icons8.com/color/96/000000/openai.png" alt="OpenAI Icon" width="40"/>
+<img src="https://gimgs2.nohat.cc/thumb/f/640/open-ai-logo-png-transparent-background-chatgpt--68fadfca37.jpg" alt="OpenAI Icon" width="40"/>
 
 - The bot will soon support generating smart replies or dynamic messages using OpenAI's API!
 - Stay tuned for updates and usage instructions.
